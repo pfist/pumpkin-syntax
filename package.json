@@ -1,0 +1,15 @@
+{
+  "name": "pumpkin-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "An autumn-flavored syntax theme for Atom",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/nkpfstr/pumpkin-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
