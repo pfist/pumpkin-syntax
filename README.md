@@ -2,7 +2,7 @@
 
 An autumn-flavored syntax theme for Atom.
 
-![Screenshot](https://raw.githubusercontent.com/pfist/pumpkin-syntax/assets/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/pfist/pumpkin-syntax/master/assets/screenshot.png)
 > The font used in the screenshot above is [Office Code Pro](https://github.com/nathco/Office-Code-Pro).
 
 # Install
